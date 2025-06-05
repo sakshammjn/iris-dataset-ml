@@ -38,7 +38,7 @@ This repository contains a Jupyter notebook implementing **K-Means Clustering** 
    git clone https://github.com/yourusername/Iris-ML-Assessment.git
 
 
-Install dependencies:
+## Install dependencies:
 pip install numpy pandas matplotlib
 
 
@@ -49,7 +49,7 @@ jupyter notebook Iris_ML_Assessment.ipynb
 Execute all cells to view the code, visualizations, and outputs (plots, eigenvalues, variance explained).
 
 
- Notebook Structure
+## Notebook Structure
 
 Introduction: Project overview and objectives.
 Data Preprocessing: Loading dataset, removing 'Species', checking for missing values, and standardizing features.
@@ -58,7 +58,7 @@ Custom implementation of K-Means with k=3.
 Two plots: cluster assignments (with centroids) and actual species.
 
 
-Principal Component Analysis (PCA):
+## Principal Component Analysis (PCA):
 Custom implementation of PCA for 3 components.
 3D scatter plot of data in the first three principal components.
 Eigenvalue and variance explained analysis.
@@ -67,7 +67,7 @@ Eigenvalue and variance explained analysis.
 Evaluation: Comparison of K-Means clusters to species and PCA variance analysis.
 Conclusion: Summary of findings and potential improvements.
 
-Key Results
+## Key Results
 
 K-Means Clustering:
 
@@ -88,7 +88,7 @@ The 3D plot shows clear species separation, with minor overlap between Versicolo
 
 
 
- Notes
+## Notes
 
 The repository is public as required for the assessment.
 The notebook includes detailed markdown explanations for preprocessing, algorithms, and results, earning potential bonus points for clarity and visualization.
